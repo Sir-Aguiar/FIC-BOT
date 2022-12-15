@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"@types/dotenv": "^8.2.0",
+		"@types/node": "^18.11.15",
+		"axios": "^1.2.1",
+		"dotenv": "^16.0.3",
+		"node-html-parser": "^6.1.4",
+		"@types/twilio": "^3.19.3",
+		"twilio": "^3.84.0"
+	},
+	"main": "dist/index.js",
+	"scripts": {
+		"start": "node ."
+	}
+}
+
